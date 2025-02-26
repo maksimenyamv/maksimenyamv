@@ -17,6 +17,6 @@
 
 ### 📫 Где меня найти:
 - Telegram: [@maksimenyamv](https://t.me/maksimenyamv)
-- GitHub Pages: [maksimenyamv.github.io](https://maksimenyamv.github.io)
+- GitHub Pages: [maksimenyamv.github](https://github.com/maksimenyamv)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksimenyamv&show_icons=true&theme=dark)
