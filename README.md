@@ -17,6 +17,6 @@
 
 ### 📫 Где меня найти:
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maksimenyamv)  
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=github&logoColor=white)](https://maksimenyamv.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=github&logoColor=white)](https://maksimenyamv.github)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksimenyamv&show_icons=true&theme=dark)
